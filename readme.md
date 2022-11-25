@@ -7,5 +7,7 @@ b - из удаленного в локальный
  make a
 
  make a again
+ 
+ make b
 
  
